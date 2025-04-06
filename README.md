@@ -120,5 +120,5 @@
 - **locals()** — Returns local variables dictionary  
   Возвращает словарь локальных переменных
 
-## > This list will be useful for both new and experienced developers - save it as a cheat sheet!
-> Этот список пригодится как новичкам, так и опытным разработчикам — сохраните его как шпаргалку!
+## > This list will be useful for both new and experienced developers!
+Этот список пригодится как новичкам, так и опытным разработчикам!
